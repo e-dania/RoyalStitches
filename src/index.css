@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "nevrada";
+    src: url("./assets/AL_Nevrada_PersonalUseOnly.ttf");
+}
+@font-face {
+    font-family: "sacramento";
+    src: url("./assets/Sacramento.ttf");
+}
