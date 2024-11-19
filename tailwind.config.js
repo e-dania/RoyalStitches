@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      colors: {
+        customRed: '#910c00',
+      },
       fontFamily: {
         nevrada: ["nevrada", "sans-serif"],
         sacramento: ["sacramento", "sans-serif"]
